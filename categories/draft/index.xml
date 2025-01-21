@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft - 分类 - 听风博客</title>
+    <link>http://localhost:1313/categories/draft/</link>
+    <description>听风博客</description>
+    <generator>Hugo 0.141.0 &amp; FixIt v0.3.17-8b402129</generator>
+    <language>zh-CN</language>
+    <managingEditor>3336016933@qq.com (unify-z)</managingEditor>
+    <webMaster>3336016933@qq.com (unify-z)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
